@@ -32,3 +32,7 @@ docker compose exec app php artisan migrate
 - `Phan_Kiet`: phần việc của Phan Thế Kiệt.
 
 Không commit file `.env` hoặc thông tin bí mật lên GitHub.
+
+## Kế hoạch Jira của nhóm
+
+Xem phân công theo Sprint, thành viên, file cần code và gợi ý commit tại [docs/KE_HOACH_JIRA_NHOM.md](docs/KE_HOACH_JIRA_NHOM.md).
